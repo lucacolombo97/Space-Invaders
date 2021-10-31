@@ -17,14 +17,14 @@ Other main aspects:
 
 1. Clone the C19 project from GitHub to IntelliJ
 
-3. Inside the src folder, in the "main" package, right click on the "SpaceInvaders" class --> select "create SpaceInvaders.main()...". In the line "VM OPTIONS" paste the following string:
-	* For Ubuntu: -Djava.library.path=natives_linux
-	* For Windows: -Djava.library.path=natives_windows
+3. Inside the src folder, in the `main` package, right click on the `SpaceInvaders` class --> select `create SpaceInvaders.main()...`. In the line `VM OPTIONS` paste the following string:
+	* For Ubuntu: `-Djava.library.path=natives_linux`
+	* For Windows: `-Djava.library.path=natives_windows`
 
-4. Always in the same window, in the line "Working directory" at the end of the path already present, add "/SpaceInvaders" on Ubuntu and "\SpaceInvaders" on Windows.
+4. Always in the same window, in the line `Working directory` at the end of the path already present, add `/SpaceInvaders` on Ubuntu and `\SpaceInvaders` on Windows.
 
 6. Run the program.
 
-8. For the multiplayer option: Inside the src folder, in the package "network.server" right click on the class "ServerLauncher" --> select "create ServerLauncher.main()...". In the line "Working directory" at the end of the path already entered add "/SpaceInvaders" on Ubuntu and "\SpaceInvaders" on Windows.
+8. For the multiplayer option: Inside the src folder, in the package `network.server` right click on the class `ServerLauncher` --> select `create ServerLauncher.main()...`. in the line `Working directory` at the end of the path already present, add `/SpaceInvaders` on Ubuntu and `\SpaceInvaders` on Windows.
 
-9. The server is set to play locally. In the configuration file "res/configuration.xml" the IP address of the server can be changed in the client PCs to be able to play with more players.
+9. The server is set to play locally. In the configuration file `res/configuration.xml` the IP address of the server can be changed in the client PCs to be able to play with more players.
