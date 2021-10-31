@@ -1,3 +1,8 @@
+# Space Invaders Game
+
+Design and Implementation of the Space Invaders game with Java.  
+Options: Single Player and MultiPlayer
+
 **ISTRUZIONI UTILIZZO SPACE INVADERS. PROGETTO C-19 UNIPV**
 
 1- Clonare il progetto C19 da GitHub a IntelliJ
