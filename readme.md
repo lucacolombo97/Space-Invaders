@@ -1,5 +1,8 @@
 # Space Invaders Game
 
+*Software Engineering course project at University of Pavia  
+Developed in collaboration with: @simoneghiazzi, @riccardocrescenti, @chiarabertocchi, @r1cky0 and @DarioGV*
+
 Design and Implementation of the Space Invaders game with Java.  
 Options: Single Player and MultiPlayer
 
