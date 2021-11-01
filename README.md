@@ -15,7 +15,8 @@ Other main aspects:
 - Implementation of a leaderboard for single player scores
 - Choice of different spaceships
 
-Here it is the Package Tree of the Project:
+*Here it is the Package Tree of the Project:*
+
 ![PackageTree](https://user-images.githubusercontent.com/48442855/139663308-97eac2de-2088-4fe4-9e59-253be8da1d9f.png)
 
 ## Game Rules
