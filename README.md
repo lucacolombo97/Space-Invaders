@@ -35,7 +35,7 @@ After signing in with the nickname (used for storing the scores), it will appear
 - select his/her favourite spaceship
 - consult the top ten ranking
 
-![Menu](https://user-images.githubusercontent.com/48442855/139665550-6799a42b-a514-47c2-be28-dce105461f24.png)
+![Menu](https://user-images.githubusercontent.com/48442855/139665972-91ce1dcb-1c16-4ff4-bee6-593fe28b34f9.png)
 
 ## Tutorial 
 
